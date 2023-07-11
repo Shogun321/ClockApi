@@ -1,0 +1,27 @@
+{
+  "name": "clockapi",
+  "version": "1.0.0",
+  "description": "clock api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shogun321/ClockApi.git"
+  },
+  "keywords": [
+    "clock",
+    "api",
+    "time"
+  ],
+  "author": "Vladimir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shogun321/ClockApi/issues"
+  },
+  "homepage": "https://github.com/Shogun321/ClockApi#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
